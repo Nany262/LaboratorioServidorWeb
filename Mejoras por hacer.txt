@@ -1,0 +1,8 @@
+Mejoras por hacer
+- Admin
+    - CRUD para usuarios
+- MVC
+- Diagrama de clases
+
+Repositorio
+-Github
